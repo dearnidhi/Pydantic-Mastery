@@ -20,11 +20,11 @@ Week 7: Production – Deployment-ready patterns
 Week 8: Final Projects – End-to-end AI applications  
 
 🚀 What you’ll learn:-  
-Pydantic v2 data validation 
-AI agent architecture using Pydantic AI
-Tool calling and function execution
-LLM integrations (Groq, OpenRouter)
-Building production-ready AI systems
+Pydantic v2 data validation   
+AI agent architecture using Pydantic AI  
+Tool calling and function execution  
+LLM integrations (Groq, OpenRouter)  
+Building production-ready AI systems   
 Real-world agent-based projects
 
 🛠 Tech Stack :-   
